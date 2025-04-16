@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! I'm <a href="(https://www.linkedin.com/in/srija-vuppala-4967732b7/)">Srija Vuppala </a> <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="45">  
-<h3 align="center">I am a passionate Java And Web developer
+<h3 align="center">I am a passionate in AIML and Web development
 </h3>
 <img align="right" alt="coding" width="300"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
