@@ -9,10 +9,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/SrijaVuppala295?label=Follow&style=social)](https://github.com/SrijaVuppala295/)
 ![Profile Views](https://komarev.com/ghpvc/?username=SrijaVuppala295&color=blue)
 
-- I’m currently learning **Java, Data Structure and Algorithms and Full Stack Web Development.** 
-- 💬 Ask me about **Java and Data Structures.**
-- 📫 How to reach me **srijavuppala295@gmail.com**
-- ⚡ **Would love to explore new things.** 
+- I’m currently learning **Java, Data Structures and Algorithms, and Full Stack Web Development.**  
+- 💬 Ask me about **Java and Data Structures.**  
+- 📫 How to reach me: **srijavuppala295@gmail.com**  
+- ⚡ **Would love to explore new things. [Visit my portfolio](https://srijavuppala295.netlify.app/)!**
+
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/srijavuppala02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
