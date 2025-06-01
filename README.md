@@ -77,8 +77,7 @@
 -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SrijaVuppala295&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=SrijaVuppala295&theme=onedark&margin-w=7&margin-h=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <b>Thank You For the Visit!🌟<b>
