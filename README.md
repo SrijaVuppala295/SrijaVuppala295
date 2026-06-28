@@ -29,23 +29,6 @@ Full-Stack Developer • AI Engineer • Open Source Contributor
 - 📫 Reach me at **srijavuppala295@gmail.com**
 - ⚡ **Would love to explore new things. [Visit my portfolio](https://srijavuppala.vercel.app/)!**
 
-## 🚀 Featured Projects
-
-🤖 **AI Lead Generation & Outreach Agent**
-> Autonomous AI agent for prospect discovery, lead qualification, contact enrichment, and personalized outreach.
-
-🎤 **AI Meet**
-> AI-powered interview platform with voice-based mock interviews, resume analysis, AI-generated feedback, and company-specific interview preparation.
-
-📚 **CourseMate AI**
-> Retrieval-Augmented Generation (RAG) application for conversational learning from PDFs using LangChain and vector databases.
-
-🩺 **AI Medical Agent**
-> Conversational AI assistant that interacts with patients, answers healthcare queries, and automates appointment scheduling.
-
-🩸 **Blood Connect**
-> Full-stack blood donation platform connecting donors and recipients with secure authentication and real-time request management.
-
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
@@ -111,10 +94,6 @@ Full-Stack Developer • AI Engineer • Open Source Contributor
 
 </table>
 
-
-<br>
-<br>
-
 <!-- 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 -->
@@ -129,26 +108,6 @@ Full-Stack Developer • AI Engineer • Open Source Contributor
 </p>
 
 
-
-<p align="left">
-
-<a href="https://linkedin.com/in/srijavuppala02">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-
-<a href="https://github.com/SrijaVuppala295">
-<img src="https://skillicons.dev/icons?i=github" height="30"/>
-</a>
-
-<a href="https://x.com/vuppala_srija">
-<img src="https://skillicons.dev/icons?i=twitter" height="30"/>
-</a>
-
-<a href="mailto:srijavuppala295@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
-</a>
-
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>
