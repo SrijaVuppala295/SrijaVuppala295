@@ -22,10 +22,30 @@ Full-Stack Developer • AI Engineer • Open Source Contributor
 [![GitHub followers](https://img.shields.io/github/followers/SrijaVuppala295?label=Follow&style=social)](https://github.com/SrijaVuppala295/)
 ![Profile Views](https://komarev.com/ghpvc/?username=SrijaVuppala295&color=blue)
 
-- I’m currently learning **Java, Data Structures and Algorithms, and Full Stack Web Development.**  
-- 💬 Ask me about **Java and Data Structures.**  
-- 📫 How to reach me: **srijavuppala295@gmail.com**  
-- ⚡ **Would love to explore new things. [Visit my portfolio](https://srijavuppala295.netlify.app/)!**
+- 🚀 Building **AI Agents, RAG Applications, and Workflow Automation Systems**
+- 💻 Interested in **AI Engineering, Full-Stack Development, and Developer Tools**
+- 🌱 Currently exploring **Multi-Agent Systems, LangChain, n8n, and Production AI Workflows**
+- 🤝 Open to **internships, freelance projects, and collaborations**
+- 📫 Reach me at **srijavuppala295@gmail.com**
+- ⚡ **Would love to explore new things. [Visit my portfolio](https://srijavuppala.vercel.app/)!**
+
+## 🚀 Featured Projects
+
+🤖 **AI Lead Generation & Outreach Agent**
+> Autonomous AI agent for prospect discovery, lead qualification, contact enrichment, and personalized outreach.
+
+🎤 **AI Meet**
+> AI-powered interview platform with voice-based mock interviews, resume analysis, AI-generated feedback, and company-specific interview preparation.
+
+📚 **CourseMate AI**
+> Retrieval-Augmented Generation (RAG) application for conversational learning from PDFs using LangChain and vector databases.
+
+🩺 **AI Medical Agent**
+> Conversational AI assistant that interacts with patients, answers healthcare queries, and automates appointment scheduling.
+
+🩸 **Blood Connect**
+> Full-stack blood donation platform connecting donors and recipients with secure authentication and real-time request management.
+
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
@@ -109,6 +129,26 @@ Full-Stack Developer • AI Engineer • Open Source Contributor
 </p>
 
 
+
+<p align="left">
+
+<a href="https://linkedin.com/in/srijavuppala02">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+</a>
+
+<a href="https://github.com/SrijaVuppala295">
+<img src="https://skillicons.dev/icons?i=github" height="30"/>
+</a>
+
+<a href="https://x.com/vuppala_srija">
+<img src="https://skillicons.dev/icons?i=twitter" height="30"/>
+</a>
+
+<a href="mailto:srijavuppala295@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+</a>
+
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>
