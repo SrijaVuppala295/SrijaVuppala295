@@ -1,8 +1,21 @@
-<h1 align="center"> Hello! I'm <a href="(https://www.linkedin.com/in/srija-vuppala-4967732b7/)">Srija Vuppala </a> <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="45">  
-<h3 align="center">I am a passionate in AIML and Web development
-</h3>
-<img align="right" alt="coding" width="300"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<h1 align="center">
+  Hi there 👋 I'm <a href="https://www.linkedin.com/in/srijavuppala02/">Srija Vuppala</a>
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="45">
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Engineer;Building+AI+Agents;RAG+Applications;Workflow+Automation;Open+Source+Contributor" />
+</p>
+
+<h3 align="center">
+Full-Stack Developer • AI Engineer • Open Source Contributor
+</h3>
+
+<p align="center">
+🚀 Building AI Agents, RAG Applications, Workflow Automation & Full-Stack Products
+</p>
+
+<img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <!-- <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300"> -->
 
@@ -17,6 +30,9 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/srijavuppala02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+<a href="https://x.com/vuppala_srija" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
+</a>
 <!-- <a href="https://www.hackerrank.com/sayyadaslam2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayyadaslam2020" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslams2020" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aslams2020" height="30" width="40" /></a> -->
@@ -28,16 +44,22 @@
 -->
 
 ## 🚀 Skills & Technologies
-<img src="https://skillicons.dev/icons?i=git,css,discord,express,github,html,java,js,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,nodejs,express,fastapi,mongodb,postgres,firebase,git,github,vscode,tailwind&perline=8" />
   <h3>🔧 Tools</h3>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <p align="center">
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pinecone-005FFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-blue?style=for-the-badge" />
+</p>
 <!-- <br> <br>-->
 
-## Holophin Badges - Hactoberfest 2024 
+  ## 🏆 Open Source Journey - Hactoberfest 2024 
 [![An image of @srijavuppala295's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srijavuppala295)](https://holopin.io/@srijavuppala295)
 
+<!--
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -54,7 +76,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 <br> <br>
-
+-->
+## 📈 GitHub Activity
 
 <table width="100%" align="center">
 <tr>
@@ -76,11 +99,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 -->
 
+<!--
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=SrijaVuppala295&theme=onedark&margin-w=7&margin-h=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
+## 🤝 Let's Connect
 <p align="center">
-  <b>Thank You For the Visit!🌟<b>
+  <b>If you're building something exciting in AI, automation, or full-stack development, I'd love to connect and collaborate.🌟<b>
 </p>
 
 
